@@ -87,4 +87,13 @@ Queries a DNS server to find the IP addresses associated with a domain name.
 
 This practical helped me understand basic networking concepts through hands-on experience with Windows command-line tools.
 
-It is my first documented networking exercise as I continue building my cybersecurity foundation.
+## Screenshots
+
+### 1. IP Configuration
+![ipconfig](ipconfig.png)
+
+### 2. Connectivity Test
+![ping](ping.png)
+
+### 3. DNS Lookup
+![nslookup](nslookup.png)
